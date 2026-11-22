@@ -1,0 +1,5 @@
+**/target/
+**/backup/
+**/invoices/
+**/reports/
+.DS_Store
